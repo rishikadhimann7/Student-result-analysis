@@ -113,8 +113,3 @@ Through this project, I practiced:
 - Create an interactive dashboard.
 - Explore machine learning models to predict student performance, if appropriate for the dataset.
 
-## Author
-
-A Computer Science and Engineering student learning Python, data analysis, and machine learning.
-
-This project is part of my journey toward building stronger programming and open-source development skills.
